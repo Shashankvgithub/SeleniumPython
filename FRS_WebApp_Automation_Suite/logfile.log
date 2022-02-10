@@ -1,0 +1,123 @@
+2022-02-09 20:44:11,395 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-09 20:44:21,914 :INFO : test_Login :Login Successful
+2022-02-09 20:44:32,168 :INFO : test_signUp_register :Entered the Email Id
+2022-02-09 20:44:32,221 :INFO : test_signUp_register :Entered the FirstName
+2022-02-09 20:44:32,282 :INFO : test_signUp_register :Entered the Last Name
+2022-02-09 20:44:32,355 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-09 20:44:32,423 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-09 20:44:33,079 :INFO : test_signUp_register :Selected the Date
+2022-02-09 20:44:33,150 :INFO : test_signUp_register :Entered the password
+2022-02-09 20:44:33,233 :INFO : test_signUp_register :Entered the confirm password
+2022-02-09 20:44:33,289 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-09 20:44:34,524 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-09 20:44:54,869 :INFO : test_signUp_register :User Already Exist
+2022-02-09 20:45:07,591 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-09 20:45:07,610 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00727AC3+2587331]
+	Ordinal0 [0x006BADD1+2141649]
+	Ordinal0 [0x005B3BB8+1063864]
+	Ordinal0 [0x005E01CE+1245646]
+	Ordinal0 [0x005E03CB+1246155]
+	Ordinal0 [0x0060A612+1418770]
+	Ordinal0 [0x005F86D4+1345236]
+	Ordinal0 [0x00608A0A+1411594]
+	Ordinal0 [0x005F84A6+1344678]
+	Ordinal0 [0x005D53F6+1201142]
+	Ordinal0 [0x005D62E6+1204966]
+	GetHandleVerifier [0x008CDF22+1680738]
+	GetHandleVerifier [0x00980DBC+2413564]
+	GetHandleVerifier [0x007BD151+563089]
+	GetHandleVerifier [0x007BBF13+558419]
+	Ordinal0 [0x006C081E+2164766]
+	Ordinal0 [0x006C5508+2184456]
+	Ordinal0 [0x006C5650+2184784]
+	Ordinal0 [0x006CF5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
+2022-02-09 20:54:51,931 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-09 20:55:01,733 :INFO : test_Login :Login Successful
+2022-02-09 20:55:10,856 :INFO : test_signUp_register :Entered the Email Id
+2022-02-09 20:55:10,931 :INFO : test_signUp_register :Entered the FirstName
+2022-02-09 20:55:11,001 :INFO : test_signUp_register :Entered the Last Name
+2022-02-09 20:55:11,088 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-09 20:55:11,178 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-09 20:55:11,930 :INFO : test_signUp_register :Selected the Date
+2022-02-09 20:55:12,022 :INFO : test_signUp_register :Entered the password
+2022-02-09 20:55:12,128 :INFO : test_signUp_register :Entered the confirm password
+2022-02-09 20:55:12,184 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-09 20:55:13,170 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-09 20:55:33,484 :INFO : test_signUp_register :User Already Exist
+2022-02-09 20:55:47,352 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-09 20:55:47,368 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00727AC3+2587331]
+	Ordinal0 [0x006BADD1+2141649]
+	Ordinal0 [0x005B3BB8+1063864]
+	Ordinal0 [0x005E01CE+1245646]
+	Ordinal0 [0x005E03CB+1246155]
+	Ordinal0 [0x0060A612+1418770]
+	Ordinal0 [0x005F86D4+1345236]
+	Ordinal0 [0x00608A0A+1411594]
+	Ordinal0 [0x005F84A6+1344678]
+	Ordinal0 [0x005D53F6+1201142]
+	Ordinal0 [0x005D62E6+1204966]
+	GetHandleVerifier [0x008CDF22+1680738]
+	GetHandleVerifier [0x00980DBC+2413564]
+	GetHandleVerifier [0x007BD151+563089]
+	GetHandleVerifier [0x007BBF13+558419]
+	Ordinal0 [0x006C081E+2164766]
+	Ordinal0 [0x006C5508+2184456]
+	Ordinal0 [0x006C5650+2184784]
+	Ordinal0 [0x006CF5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
+2022-02-10 10:49:30,908 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-10 10:49:40,542 :INFO : test_Login :Login Successful
+2022-02-10 10:49:50,224 :INFO : test_signUp_register :Entered the Email Id
+2022-02-10 10:49:50,298 :INFO : test_signUp_register :Entered the FirstName
+2022-02-10 10:49:50,381 :INFO : test_signUp_register :Entered the Last Name
+2022-02-10 10:49:50,472 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-10 10:49:50,579 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-10 10:49:51,476 :INFO : test_signUp_register :Selected the Date
+2022-02-10 10:49:51,566 :INFO : test_signUp_register :Entered the password
+2022-02-10 10:49:51,663 :INFO : test_signUp_register :Entered the confirm password
+2022-02-10 10:49:51,709 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-10 10:49:52,849 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-10 10:50:13,208 :INFO : test_signUp_register :User Already Exist
+2022-02-10 10:50:25,318 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-10 10:50:25,336 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x011F7AC3+2587331]
+	Ordinal0 [0x0118ADD1+2141649]
+	Ordinal0 [0x01083BB8+1063864]
+	Ordinal0 [0x010B01CE+1245646]
+	Ordinal0 [0x010B03CB+1246155]
+	Ordinal0 [0x010DA612+1418770]
+	Ordinal0 [0x010C86D4+1345236]
+	Ordinal0 [0x010D8A0A+1411594]
+	Ordinal0 [0x010C84A6+1344678]
+	Ordinal0 [0x010A53F6+1201142]
+	Ordinal0 [0x010A62E6+1204966]
+	GetHandleVerifier [0x0139DF22+1680738]
+	GetHandleVerifier [0x01450DBC+2413564]
+	GetHandleVerifier [0x0128D151+563089]
+	GetHandleVerifier [0x0128BF13+558419]
+	Ordinal0 [0x0119081E+2164766]
+	Ordinal0 [0x01195508+2184456]
+	Ordinal0 [0x01195650+2184784]
+	Ordinal0 [0x0119F5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+

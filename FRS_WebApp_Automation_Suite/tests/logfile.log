@@ -1,0 +1,613 @@
+2022-02-03 12:58:01,860 :INFO : test_signUp :Entered the Email Id
+2022-02-03 12:58:02,053 :INFO : test_signUp :Entered the FirstName
+2022-02-03 12:58:02,243 :INFO : test_signUp :Entered the Last Name
+2022-02-03 12:58:02,344 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 12:58:02,510 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 12:58:03,920 :INFO : test_signUp :Selected the Date
+2022-02-03 12:58:04,089 :INFO : test_signUp :Entered the password
+2022-02-03 12:58:04,258 :INFO : test_signUp :Entered the confirm password
+2022-02-03 12:58:04,313 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 12:58:06,660 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 13:00:00,679 :INFO : test_signUp :Entered the Email Id
+2022-02-03 13:00:00,786 :INFO : test_signUp :Entered the FirstName
+2022-02-03 13:00:00,874 :INFO : test_signUp :Entered the Last Name
+2022-02-03 13:00:01,022 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 13:00:01,152 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 13:00:02,465 :INFO : test_signUp :Selected the Date
+2022-02-03 13:00:02,667 :INFO : test_signUp :Entered the password
+2022-02-03 13:00:02,782 :INFO : test_signUp :Entered the confirm password
+2022-02-03 13:00:02,811 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 13:00:13,287 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 13:00:13,305 :INFO : test_signUp :Waiting for User to get registered
+2022-02-03 13:00:13,339 :INFO : test_signUp :Text =User has been successfully registered
+2022-02-03 13:00:13,339 :INFO : test_signUp :User Registered Successfully !!
+2022-02-03 13:03:41,191 :INFO : test_signUp :Entered the Email Id
+2022-02-03 13:03:41,403 :INFO : test_signUp :Entered the FirstName
+2022-02-03 13:03:41,502 :INFO : test_signUp :Entered the Last Name
+2022-02-03 13:03:41,590 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 13:03:41,718 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 13:03:42,790 :INFO : test_signUp :Selected the Date
+2022-02-03 13:03:42,953 :INFO : test_signUp :Entered the password
+2022-02-03 13:03:43,102 :INFO : test_signUp :Entered the confirm password
+2022-02-03 13:03:43,127 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 13:03:53,867 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 13:03:53,878 :INFO : test_signUp :Waiting for User to get registered
+2022-02-03 13:03:53,899 :INFO : test_signUp :User has been successfully registered
+2022-02-03 13:04:42,136 :INFO : test_signUp :Entered the Email Id
+2022-02-03 13:04:42,215 :INFO : test_signUp :Entered the FirstName
+2022-02-03 13:04:42,304 :INFO : test_signUp :Entered the Last Name
+2022-02-03 13:04:42,389 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 13:04:42,477 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 13:04:43,253 :INFO : test_signUp :Selected the Date
+2022-02-03 13:04:43,343 :INFO : test_signUp :Entered the password
+2022-02-03 13:04:43,454 :INFO : test_signUp :Entered the confirm password
+2022-02-03 13:04:43,483 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 13:04:45,673 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 13:12:47,732 :INFO : test_signUp :Entered the Email Id
+2022-02-03 13:12:47,828 :INFO : test_signUp :Entered the FirstName
+2022-02-03 13:12:47,932 :INFO : test_signUp :Entered the Last Name
+2022-02-03 13:12:48,041 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 13:12:48,137 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 13:12:48,881 :INFO : test_signUp :Selected the Date
+2022-02-03 13:12:48,961 :INFO : test_signUp :Entered the password
+2022-02-03 13:12:49,050 :INFO : test_signUp :Entered the confirm password
+2022-02-03 13:12:49,079 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 13:12:50,953 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 14:07:50,165 :INFO : test_signUp :Entered the Email Id
+2022-02-03 14:07:50,248 :INFO : test_signUp :Entered the FirstName
+2022-02-03 14:07:50,327 :INFO : test_signUp :Entered the Last Name
+2022-02-03 14:07:50,419 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 14:07:50,511 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 14:07:51,600 :INFO : test_signUp :Selected the Date
+2022-02-03 14:07:51,686 :INFO : test_signUp :Entered the password
+2022-02-03 14:07:51,774 :INFO : test_signUp :Entered the confirm password
+2022-02-03 14:07:51,796 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 14:07:53,936 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 14:10:28,881 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-03 14:13:56,179 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-03 14:14:08,060 :INFO : test_Login :Current URL is - https://webapp.kidzbery.com/FacePay/welcome.xhtml
+2022-02-03 15:34:52,566 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-03 15:35:04,802 :INFO : test_Login :Current URL is - https://webapp.kidzbery.com/FacePay/welcome.xhtml
+2022-02-03 15:35:17,533 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:35:17,629 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:35:17,710 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:35:17,788 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:35:17,912 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:35:18,643 :INFO : test_signUp :Selected the Date
+2022-02-03 15:35:18,741 :INFO : test_signUp :Entered the password
+2022-02-03 15:35:18,845 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:35:18,877 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:35:20,355 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:48:57,329 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:48:57,420 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:48:57,520 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:48:57,634 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:48:57,745 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:48:58,452 :INFO : test_signUp :Selected the Date
+2022-02-03 15:48:58,557 :INFO : test_signUp :Entered the password
+2022-02-03 15:48:58,643 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:48:58,673 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:49:01,453 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:50:48,401 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:50:48,507 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:50:48,595 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:50:48,683 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:50:48,775 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:50:49,470 :INFO : test_signUp :Selected the Date
+2022-02-03 15:50:49,551 :INFO : test_signUp :Entered the password
+2022-02-03 15:50:49,636 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:50:49,664 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:50:51,613 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:51:12,121 :INFO : test_signUp :User Already Exist
+2022-02-03 15:52:33,429 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:52:33,514 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:52:33,596 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:52:33,681 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:52:33,762 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:52:34,419 :INFO : test_signUp :Selected the Date
+2022-02-03 15:52:34,498 :INFO : test_signUp :Entered the password
+2022-02-03 15:52:34,579 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:52:34,606 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:52:36,441 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:52:56,497 :INFO : test_signUp :User Already Exist
+2022-02-03 15:54:14,276 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:54:14,383 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:54:14,476 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:54:14,597 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:54:14,706 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:54:15,475 :INFO : test_signUp :Selected the Date
+2022-02-03 15:54:15,561 :INFO : test_signUp :Entered the password
+2022-02-03 15:54:15,651 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:54:15,675 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:54:18,386 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:54:38,888 :INFO : test_signUp :User Already Exist
+2022-02-03 15:56:33,992 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:56:34,068 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:56:34,140 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:56:34,225 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:56:34,318 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:56:34,965 :INFO : test_signUp :Selected the Date
+2022-02-03 15:56:35,037 :INFO : test_signUp :Entered the password
+2022-02-03 15:56:35,123 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:56:35,149 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:56:36,835 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:56:57,016 :INFO : test_signUp :User Already Exist
+2022-02-03 15:58:01,095 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-03 15:58:13,043 :INFO : test_Login :Current URL is - https://webapp.kidzbery.com/FacePay/welcome.xhtml
+2022-02-03 15:58:27,560 :INFO : test_signUp :Entered the Email Id
+2022-02-03 15:58:27,635 :INFO : test_signUp :Entered the FirstName
+2022-02-03 15:58:27,708 :INFO : test_signUp :Entered the Last Name
+2022-02-03 15:58:27,797 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 15:58:27,881 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 15:58:28,529 :INFO : test_signUp :Selected the Date
+2022-02-03 15:58:28,603 :INFO : test_signUp :Entered the password
+2022-02-03 15:58:28,679 :INFO : test_signUp :Entered the confirm password
+2022-02-03 15:58:28,707 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 15:58:30,791 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 15:58:51,242 :INFO : test_signUp :User Already Exist
+2022-02-03 16:02:40,776 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-03 16:02:44,160 :INFO : test_Login :Login Successful
+2022-02-03 16:02:55,240 :INFO : test_signUp :Entered the Email Id
+2022-02-03 16:02:55,315 :INFO : test_signUp :Entered the FirstName
+2022-02-03 16:02:55,398 :INFO : test_signUp :Entered the Last Name
+2022-02-03 16:02:55,485 :INFO : test_signUp :Entered the Mobile Number
+2022-02-03 16:02:55,570 :INFO : test_signUp :Clicked on the DOB Field
+2022-02-03 16:02:56,234 :INFO : test_signUp :Selected the Date
+2022-02-03 16:02:56,310 :INFO : test_signUp :Entered the password
+2022-02-03 16:02:56,388 :INFO : test_signUp :Entered the confirm password
+2022-02-03 16:02:56,414 :INFO : test_signUp :Selected the Terms & Conditions Checkbox
+2022-02-03 16:02:58,230 :INFO : test_signUp :Clicked on the Register Button
+2022-02-03 16:03:18,292 :INFO : test_signUp :User Already Exist
+2022-02-03 16:38:45,432 :INFO : test_signUp_register :Entered the Email Id
+2022-02-03 16:38:45,513 :INFO : test_signUp_register :Entered the FirstName
+2022-02-03 16:38:45,590 :INFO : test_signUp_register :Entered the Last Name
+2022-02-03 16:38:45,692 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-03 16:38:45,777 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-03 16:38:46,423 :INFO : test_signUp_register :Selected the Date
+2022-02-03 16:38:46,498 :INFO : test_signUp_register :Entered the password
+2022-02-03 16:38:46,579 :INFO : test_signUp_register :Entered the confirm password
+2022-02-03 16:38:46,605 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-03 16:38:48,383 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-03 16:39:08,536 :INFO : test_signUp_register :User Already Exist
+2022-02-03 16:39:08,670 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="showCaptureBtn"]"}
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0084FDC3+2555331]
+	Ordinal0 [0x007E77F1+2127857]
+	Ordinal0 [0x006E2E08+1060360]
+	Ordinal0 [0x0070E49E+1238174]
+	Ordinal0 [0x0070E69B+1238683]
+	Ordinal0 [0x00739252+1413714]
+	Ordinal0 [0x00727B54+1342292]
+	Ordinal0 [0x007375FA+1406458]
+	Ordinal0 [0x00727976+1341814]
+	Ordinal0 [0x007036B6+1193654]
+	Ordinal0 [0x00704546+1197382]
+	GetHandleVerifier [0x009E9622+1619522]
+	GetHandleVerifier [0x00A9882C+2336844]
+	GetHandleVerifier [0x008E23E1+541697]
+	GetHandleVerifier [0x008E1443+537699]
+	Ordinal0 [0x007ED18E+2150798]
+	Ordinal0 [0x007F1518+2168088]
+	Ordinal0 [0x007F1660+2168416]
+	Ordinal0 [0x007FB330+2208560]
+	BaseThreadInitThunk [0x757AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77667A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77667A6E+238]
+
+2022-02-03 16:40:11,696 :INFO : test_signUp_register :Entered the Email Id
+2022-02-03 16:40:11,778 :INFO : test_signUp_register :Entered the FirstName
+2022-02-03 16:40:11,858 :INFO : test_signUp_register :Entered the Last Name
+2022-02-03 16:40:11,941 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-03 16:40:12,029 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-03 16:40:12,699 :INFO : test_signUp_register :Selected the Date
+2022-02-03 16:40:12,782 :INFO : test_signUp_register :Entered the password
+2022-02-03 16:40:12,870 :INFO : test_signUp_register :Entered the confirm password
+2022-02-03 16:40:12,892 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-03 16:40:15,881 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-03 16:40:36,040 :INFO : test_signUp_register :User Already Exist
+2022-02-03 16:40:36,182 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="showCaptureBtn"]"}
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0084FDC3+2555331]
+	Ordinal0 [0x007E77F1+2127857]
+	Ordinal0 [0x006E2E08+1060360]
+	Ordinal0 [0x0070E49E+1238174]
+	Ordinal0 [0x0070E69B+1238683]
+	Ordinal0 [0x00739252+1413714]
+	Ordinal0 [0x00727B54+1342292]
+	Ordinal0 [0x007375FA+1406458]
+	Ordinal0 [0x00727976+1341814]
+	Ordinal0 [0x007036B6+1193654]
+	Ordinal0 [0x00704546+1197382]
+	GetHandleVerifier [0x009E9622+1619522]
+	GetHandleVerifier [0x00A9882C+2336844]
+	GetHandleVerifier [0x008E23E1+541697]
+	GetHandleVerifier [0x008E1443+537699]
+	Ordinal0 [0x007ED18E+2150798]
+	Ordinal0 [0x007F1518+2168088]
+	Ordinal0 [0x007F1660+2168416]
+	Ordinal0 [0x007FB330+2208560]
+	BaseThreadInitThunk [0x757AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77667A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77667A6E+238]
+
+2022-02-03 16:41:56,338 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-03 16:41:56,356 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0084FDC3+2555331]
+	Ordinal0 [0x007E77F1+2127857]
+	Ordinal0 [0x006E2E08+1060360]
+	Ordinal0 [0x0070E49E+1238174]
+	Ordinal0 [0x0070E69B+1238683]
+	Ordinal0 [0x00739252+1413714]
+	Ordinal0 [0x00727B54+1342292]
+	Ordinal0 [0x007375FA+1406458]
+	Ordinal0 [0x00727976+1341814]
+	Ordinal0 [0x007036B6+1193654]
+	Ordinal0 [0x00704546+1197382]
+	GetHandleVerifier [0x009E9622+1619522]
+	GetHandleVerifier [0x00A9882C+2336844]
+	GetHandleVerifier [0x008E23E1+541697]
+	GetHandleVerifier [0x008E1443+537699]
+	Ordinal0 [0x007ED18E+2150798]
+	Ordinal0 [0x007F1518+2168088]
+	Ordinal0 [0x007F1660+2168416]
+	Ordinal0 [0x007FB330+2208560]
+	BaseThreadInitThunk [0x757AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77667A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77667A6E+238]
+
+2022-02-03 16:44:46,761 :INFO : test_signUp_register :Entered the Email Id
+2022-02-03 16:44:46,841 :INFO : test_signUp_register :Entered the FirstName
+2022-02-03 16:44:46,912 :INFO : test_signUp_register :Entered the Last Name
+2022-02-03 16:44:46,998 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-03 16:44:47,078 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-03 16:44:47,745 :INFO : test_signUp_register :Selected the Date
+2022-02-03 16:44:47,828 :INFO : test_signUp_register :Entered the password
+2022-02-03 16:44:47,921 :INFO : test_signUp_register :Entered the confirm password
+2022-02-03 16:44:47,950 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-03 16:44:59,968 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-03 16:44:59,983 :INFO : test_signUp_register :Waiting for User to get registered
+2022-02-03 16:45:00,011 :INFO : test_signUp_register :User has been successfully registered
+2022-02-03 16:45:00,037 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="showCaptureBtn"]"}
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0084FDC3+2555331]
+	Ordinal0 [0x007E77F1+2127857]
+	Ordinal0 [0x006E2E08+1060360]
+	Ordinal0 [0x0070E49E+1238174]
+	Ordinal0 [0x0070E69B+1238683]
+	Ordinal0 [0x00739252+1413714]
+	Ordinal0 [0x00727B54+1342292]
+	Ordinal0 [0x007375FA+1406458]
+	Ordinal0 [0x00727976+1341814]
+	Ordinal0 [0x007036B6+1193654]
+	Ordinal0 [0x00704546+1197382]
+	GetHandleVerifier [0x009E9622+1619522]
+	GetHandleVerifier [0x00A9882C+2336844]
+	GetHandleVerifier [0x008E23E1+541697]
+	GetHandleVerifier [0x008E1443+537699]
+	Ordinal0 [0x007ED18E+2150798]
+	Ordinal0 [0x007F1518+2168088]
+	Ordinal0 [0x007F1660+2168416]
+	Ordinal0 [0x007FB330+2208560]
+	BaseThreadInitThunk [0x757AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77667A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77667A6E+238]
+
+2022-02-03 16:46:38,708 :INFO : test_signUp_register :Entered the Email Id
+2022-02-03 16:46:38,794 :INFO : test_signUp_register :Entered the FirstName
+2022-02-03 16:46:38,892 :INFO : test_signUp_register :Entered the Last Name
+2022-02-03 16:46:38,974 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-03 16:46:39,060 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-03 16:46:39,743 :INFO : test_signUp_register :Selected the Date
+2022-02-03 16:46:39,816 :INFO : test_signUp_register :Entered the password
+2022-02-03 16:46:39,895 :INFO : test_signUp_register :Entered the confirm password
+2022-02-03 16:46:39,923 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-03 16:46:42,093 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-03 16:47:02,375 :INFO : test_signUp_register :User Already Exist
+2022-02-03 16:47:17,397 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-03 16:47:17,412 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0084FDC3+2555331]
+	Ordinal0 [0x007E77F1+2127857]
+	Ordinal0 [0x006E2E08+1060360]
+	Ordinal0 [0x0070E49E+1238174]
+	Ordinal0 [0x0070E69B+1238683]
+	Ordinal0 [0x00739252+1413714]
+	Ordinal0 [0x00727B54+1342292]
+	Ordinal0 [0x007375FA+1406458]
+	Ordinal0 [0x00727976+1341814]
+	Ordinal0 [0x007036B6+1193654]
+	Ordinal0 [0x00704546+1197382]
+	GetHandleVerifier [0x009E9622+1619522]
+	GetHandleVerifier [0x00A9882C+2336844]
+	GetHandleVerifier [0x008E23E1+541697]
+	GetHandleVerifier [0x008E1443+537699]
+	Ordinal0 [0x007ED18E+2150798]
+	Ordinal0 [0x007F1518+2168088]
+	Ordinal0 [0x007F1660+2168416]
+	Ordinal0 [0x007FB330+2208560]
+	BaseThreadInitThunk [0x757AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77667A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77667A6E+238]
+
+2022-02-03 16:47:44,655 :INFO : test_signUp_register :Entered the Email Id
+2022-02-03 16:47:44,752 :INFO : test_signUp_register :Entered the FirstName
+2022-02-03 16:47:44,831 :INFO : test_signUp_register :Entered the Last Name
+2022-02-03 16:47:44,927 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-03 16:47:45,034 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-03 16:47:45,844 :INFO : test_signUp_register :Selected the Date
+2022-02-03 16:47:45,922 :INFO : test_signUp_register :Entered the password
+2022-02-03 16:47:46,016 :INFO : test_signUp_register :Entered the confirm password
+2022-02-03 16:47:46,042 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-03 16:47:57,434 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-03 16:47:57,447 :INFO : test_signUp_register :Waiting for User to get registered
+2022-02-03 16:47:57,469 :INFO : test_signUp_register :User has been successfully registered
+2022-02-03 16:48:13,787 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-03 16:48:13,805 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=97.0.4692.99)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0084FDC3+2555331]
+	Ordinal0 [0x007E77F1+2127857]
+	Ordinal0 [0x006E2E08+1060360]
+	Ordinal0 [0x0070E49E+1238174]
+	Ordinal0 [0x0070E69B+1238683]
+	Ordinal0 [0x00739252+1413714]
+	Ordinal0 [0x00727B54+1342292]
+	Ordinal0 [0x007375FA+1406458]
+	Ordinal0 [0x00727976+1341814]
+	Ordinal0 [0x007036B6+1193654]
+	Ordinal0 [0x00704546+1197382]
+	GetHandleVerifier [0x009E9622+1619522]
+	GetHandleVerifier [0x00A9882C+2336844]
+	GetHandleVerifier [0x008E23E1+541697]
+	GetHandleVerifier [0x008E1443+537699]
+	Ordinal0 [0x007ED18E+2150798]
+	Ordinal0 [0x007F1518+2168088]
+	Ordinal0 [0x007F1660+2168416]
+	Ordinal0 [0x007FB330+2208560]
+	BaseThreadInitThunk [0x757AFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77667A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77667A6E+238]
+
+2022-02-08 21:16:37,222 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 21:16:52,214 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 21:16:53,873 :INFO : test_Login :Login Successful
+2022-02-08 21:17:00,772 :INFO : test_signUp_register :Entered the Email Id
+2022-02-08 21:17:00,824 :INFO : test_signUp_register :Entered the FirstName
+2022-02-08 21:17:00,874 :INFO : test_signUp_register :Entered the Last Name
+2022-02-08 21:17:00,933 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-08 21:17:00,992 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-08 21:17:01,599 :INFO : test_signUp_register :Selected the Date
+2022-02-08 21:17:01,654 :INFO : test_signUp_register :Entered the password
+2022-02-08 21:17:01,722 :INFO : test_signUp_register :Entered the confirm password
+2022-02-08 21:17:01,748 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-08 21:17:02,465 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-08 21:17:22,770 :INFO : test_signUp_register :User Already Exist
+2022-02-08 21:18:43,510 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 21:18:45,212 :INFO : test_Login :Login Successful
+2022-02-08 21:18:51,970 :INFO : test_signUp_register :Entered the Email Id
+2022-02-08 21:18:52,023 :INFO : test_signUp_register :Entered the FirstName
+2022-02-08 21:18:52,080 :INFO : test_signUp_register :Entered the Last Name
+2022-02-08 21:18:52,142 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-08 21:18:52,211 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-08 21:18:52,755 :INFO : test_signUp_register :Selected the Date
+2022-02-08 21:18:52,810 :INFO : test_signUp_register :Entered the password
+2022-02-08 21:18:52,863 :INFO : test_signUp_register :Entered the confirm password
+2022-02-08 21:18:52,881 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-08 21:18:53,580 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-08 21:19:13,929 :INFO : test_signUp_register :User Already Exist
+2022-02-08 21:19:21,687 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-08 21:19:21,703 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F27AC3+2587331]
+	Ordinal0 [0x00EBADD1+2141649]
+	Ordinal0 [0x00DB3BB8+1063864]
+	Ordinal0 [0x00DE01CE+1245646]
+	Ordinal0 [0x00DE03CB+1246155]
+	Ordinal0 [0x00E0A612+1418770]
+	Ordinal0 [0x00DF86D4+1345236]
+	Ordinal0 [0x00E08A0A+1411594]
+	Ordinal0 [0x00DF84A6+1344678]
+	Ordinal0 [0x00DD53F6+1201142]
+	Ordinal0 [0x00DD62E6+1204966]
+	GetHandleVerifier [0x010CDF22+1680738]
+	GetHandleVerifier [0x01180DBC+2413564]
+	GetHandleVerifier [0x00FBD151+563089]
+	GetHandleVerifier [0x00FBBF13+558419]
+	Ordinal0 [0x00EC081E+2164766]
+	Ordinal0 [0x00EC5508+2184456]
+	Ordinal0 [0x00EC5650+2184784]
+	Ordinal0 [0x00ECF5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
+2022-02-08 22:01:57,552 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 22:02:07,039 :INFO : test_Login :Login Successful
+2022-02-08 22:02:54,153 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 22:02:56,033 :INFO : test_Login :Login Successful
+2022-02-08 22:06:02,835 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 22:06:05,421 :INFO : test_Login :Login Successful
+2022-02-08 22:07:28,874 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 22:07:31,362 :INFO : test_Login :Login Successful
+2022-02-08 22:08:09,226 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 22:08:11,670 :INFO : test_Login :Login Successful
+2022-02-08 22:09:07,287 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-08 22:09:09,679 :INFO : test_Login :Login Successful
+2022-02-08 22:09:17,475 :INFO : test_signUp_register :Entered the Email Id
+2022-02-08 22:09:17,576 :INFO : test_signUp_register :Entered the FirstName
+2022-02-08 22:09:17,634 :INFO : test_signUp_register :Entered the Last Name
+2022-02-08 22:09:17,699 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-08 22:09:17,769 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-08 22:09:18,424 :INFO : test_signUp_register :Selected the Date
+2022-02-08 22:09:18,496 :INFO : test_signUp_register :Entered the password
+2022-02-08 22:09:18,564 :INFO : test_signUp_register :Entered the confirm password
+2022-02-08 22:09:18,596 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-08 22:09:22,043 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-08 22:09:22,054 :INFO : test_signUp_register :Waiting for User to get registered
+2022-02-08 22:09:22,094 :INFO : test_signUp_register :User has been successfully registered
+2022-02-08 22:09:33,787 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-08 22:09:33,810 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00A87AC3+2587331]
+	Ordinal0 [0x00A1ADD1+2141649]
+	Ordinal0 [0x00913BB8+1063864]
+	Ordinal0 [0x009401CE+1245646]
+	Ordinal0 [0x009403CB+1246155]
+	Ordinal0 [0x0096A612+1418770]
+	Ordinal0 [0x009586D4+1345236]
+	Ordinal0 [0x00968A0A+1411594]
+	Ordinal0 [0x009584A6+1344678]
+	Ordinal0 [0x009353F6+1201142]
+	Ordinal0 [0x009362E6+1204966]
+	GetHandleVerifier [0x00C2DF22+1680738]
+	GetHandleVerifier [0x00CE0DBC+2413564]
+	GetHandleVerifier [0x00B1D151+563089]
+	GetHandleVerifier [0x00B1BF13+558419]
+	Ordinal0 [0x00A2081E+2164766]
+	Ordinal0 [0x00A25508+2184456]
+	Ordinal0 [0x00A25650+2184784]
+	Ordinal0 [0x00A2F5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
+2022-02-09 00:05:27,691 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-09 00:05:37,407 :INFO : test_Login :Login Successful
+2022-02-09 00:05:47,042 :INFO : test_signUp_register :Entered the Email Id
+2022-02-09 00:05:47,108 :INFO : test_signUp_register :Entered the FirstName
+2022-02-09 00:05:47,202 :INFO : test_signUp_register :Entered the Last Name
+2022-02-09 00:05:47,291 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-09 00:05:47,388 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-09 00:05:48,290 :INFO : test_signUp_register :Selected the Date
+2022-02-09 00:05:48,391 :INFO : test_signUp_register :Entered the password
+2022-02-09 00:05:48,491 :INFO : test_signUp_register :Entered the confirm password
+2022-02-09 00:05:48,532 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-09 00:05:49,484 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-09 00:06:09,887 :INFO : test_signUp_register :User Already Exist
+2022-02-09 00:06:21,008 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-09 00:06:21,029 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00377AC3+2587331]
+	Ordinal0 [0x0030ADD1+2141649]
+	Ordinal0 [0x00203BB8+1063864]
+	Ordinal0 [0x002301CE+1245646]
+	Ordinal0 [0x002303CB+1246155]
+	Ordinal0 [0x0025A612+1418770]
+	Ordinal0 [0x002486D4+1345236]
+	Ordinal0 [0x00258A0A+1411594]
+	Ordinal0 [0x002484A6+1344678]
+	Ordinal0 [0x002253F6+1201142]
+	Ordinal0 [0x002262E6+1204966]
+	GetHandleVerifier [0x0051DF22+1680738]
+	GetHandleVerifier [0x005D0DBC+2413564]
+	GetHandleVerifier [0x0040D151+563089]
+	GetHandleVerifier [0x0040BF13+558419]
+	Ordinal0 [0x0031081E+2164766]
+	Ordinal0 [0x00315508+2184456]
+	Ordinal0 [0x00315650+2184784]
+	Ordinal0 [0x0031F5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
+2022-02-09 00:56:28,707 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-09 00:56:38,590 :INFO : test_Login :Login Successful
+2022-02-09 00:56:48,288 :INFO : test_signUp_register :Entered the Email Id
+2022-02-09 00:56:48,369 :INFO : test_signUp_register :Entered the FirstName
+2022-02-09 00:56:48,438 :INFO : test_signUp_register :Entered the Last Name
+2022-02-09 00:56:48,516 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-09 00:56:48,600 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-09 00:56:49,604 :INFO : test_signUp_register :Selected the Date
+2022-02-09 00:56:49,697 :INFO : test_signUp_register :Entered the password
+2022-02-09 00:56:49,811 :INFO : test_signUp_register :Entered the confirm password
+2022-02-09 00:56:49,849 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-09 00:56:51,076 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-09 00:57:11,496 :INFO : test_signUp_register :User Already Exist
+2022-02-09 00:57:23,553 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-09 00:57:23,582 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x002D7AC3+2587331]
+	Ordinal0 [0x0026ADD1+2141649]
+	Ordinal0 [0x00163BB8+1063864]
+	Ordinal0 [0x001901CE+1245646]
+	Ordinal0 [0x001903CB+1246155]
+	Ordinal0 [0x001BA612+1418770]
+	Ordinal0 [0x001A86D4+1345236]
+	Ordinal0 [0x001B8A0A+1411594]
+	Ordinal0 [0x001A84A6+1344678]
+	Ordinal0 [0x001853F6+1201142]
+	Ordinal0 [0x001862E6+1204966]
+	GetHandleVerifier [0x0047DF22+1680738]
+	GetHandleVerifier [0x00530DBC+2413564]
+	GetHandleVerifier [0x0036D151+563089]
+	GetHandleVerifier [0x0036BF13+558419]
+	Ordinal0 [0x0027081E+2164766]
+	Ordinal0 [0x00275508+2184456]
+	Ordinal0 [0x00275650+2184784]
+	Ordinal0 [0x0027F5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+	(No symbol) [0x00000000]
+
+2022-02-09 01:21:24,545 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-09 01:21:34,650 :INFO : test_Login :Login Successful
+2022-02-09 01:21:43,822 :INFO : test_signUp_register :Entered the Email Id
+2022-02-09 01:21:43,898 :INFO : test_signUp_register :Entered the FirstName
+2022-02-09 01:21:43,967 :INFO : test_signUp_register :Entered the Last Name
+2022-02-09 01:21:44,035 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-09 01:21:44,110 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-09 01:21:45,017 :INFO : test_signUp_register :Selected the Date
+2022-02-09 01:21:45,114 :INFO : test_signUp_register :Entered the password
+2022-02-09 01:21:45,213 :INFO : test_signUp_register :Entered the confirm password
+2022-02-09 01:21:45,274 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-09 01:21:46,215 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-09 01:22:06,609 :INFO : test_signUp_register :User Already Exist
+2022-02-09 01:22:18,403 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-09 01:22:18,437 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003A7AC3+2587331]
+	Ordinal0 [0x0033ADD1+2141649]
+	Ordinal0 [0x00233BB8+1063864]
+	Ordinal0 [0x002601CE+1245646]
+	Ordinal0 [0x002603CB+1246155]
+	Ordinal0 [0x0028A612+1418770]
+	Ordinal0 [0x002786D4+1345236]
+	Ordinal0 [0x00288A0A+1411594]
+	Ordinal0 [0x002784A6+1344678]
+	Ordinal0 [0x002553F6+1201142]
+	Ordinal0 [0x002562E6+1204966]
+	GetHandleVerifier [0x0054DF22+1680738]
+	GetHandleVerifier [0x00600DBC+2413564]
+	GetHandleVerifier [0x0043D151+563089]
+	GetHandleVerifier [0x0043BF13+558419]
+	Ordinal0 [0x0034081E+2164766]
+	Ordinal0 [0x00345508+2184456]
+	Ordinal0 [0x00345650+2184784]
+	Ordinal0 [0x0034F5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
