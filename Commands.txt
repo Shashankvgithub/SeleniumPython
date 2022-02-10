@@ -1,0 +1,7 @@
+-v
+-s
+
+-m   --- Marked TCs e.g. -m smoke
+
+-k -  Reg Exp for search by test case name e.g. -k Login
+

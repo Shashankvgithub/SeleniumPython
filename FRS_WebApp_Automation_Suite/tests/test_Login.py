@@ -8,7 +8,7 @@ from utilities.BaseClass import BaseClass
 
 
 class TestLogin(BaseClass):
-
+    @pytest.mark.sanity
     def test_Login(self, getData):
         log = self.getLogger()
         loginpage = LoginPage(self.driver)

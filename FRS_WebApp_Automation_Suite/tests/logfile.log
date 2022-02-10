@@ -611,3 +611,50 @@ Backtrace:
 	RtlGetFullPathName_UEx [0x77B28E7F+1215]
 	RtlGetFullPathName_UEx [0x77B28E4D+1165]
 
+2022-02-10 17:14:03,680 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-10 17:14:13,102 :INFO : test_Login :Login Successful
+2022-02-10 17:14:22,778 :INFO : test_signUp_register :Entered the Email Id
+2022-02-10 17:14:22,868 :INFO : test_signUp_register :Entered the FirstName
+2022-02-10 17:14:22,956 :INFO : test_signUp_register :Entered the Last Name
+2022-02-10 17:14:23,048 :INFO : test_signUp_register :Entered the Mobile Number
+2022-02-10 17:14:23,154 :INFO : test_signUp_register :Clicked on the DOB Field
+2022-02-10 17:14:24,095 :INFO : test_signUp_register :Selected the Date
+2022-02-10 17:14:24,184 :INFO : test_signUp_register :Entered the password
+2022-02-10 17:14:24,278 :INFO : test_signUp_register :Entered the confirm password
+2022-02-10 17:14:24,325 :INFO : test_signUp_register :Selected the Terms & Conditions Checkbox
+2022-02-10 17:14:25,332 :INFO : test_signUp_register :Clicked on the Register Button
+2022-02-10 17:14:45,741 :INFO : test_signUp_register :User Already Exist
+2022-02-10 17:14:57,154 :INFO : test_signUp_cancel :Clicked on the Cancel Button
+2022-02-10 17:14:57,173 :INFO : test_signUp_cancel :Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="bcId"]"}
+  (Session info: chrome=98.0.4758.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00BC7AC3+2587331]
+	Ordinal0 [0x00B5ADD1+2141649]
+	Ordinal0 [0x00A53BB8+1063864]
+	Ordinal0 [0x00A801CE+1245646]
+	Ordinal0 [0x00A803CB+1246155]
+	Ordinal0 [0x00AAA612+1418770]
+	Ordinal0 [0x00A986D4+1345236]
+	Ordinal0 [0x00AA8A0A+1411594]
+	Ordinal0 [0x00A984A6+1344678]
+	Ordinal0 [0x00A753F6+1201142]
+	Ordinal0 [0x00A762E6+1204966]
+	GetHandleVerifier [0x00D6DF22+1680738]
+	GetHandleVerifier [0x00E20DBC+2413564]
+	GetHandleVerifier [0x00C5D151+563089]
+	GetHandleVerifier [0x00C5BF13+558419]
+	Ordinal0 [0x00B6081E+2164766]
+	Ordinal0 [0x00B65508+2184456]
+	Ordinal0 [0x00B65650+2184784]
+	Ordinal0 [0x00B6F5BC+2225596]
+	BaseThreadInitThunk [0x768B6739+25]
+	RtlGetFullPathName_UEx [0x77B28E7F+1215]
+	RtlGetFullPathName_UEx [0x77B28E4D+1165]
+
+2022-02-10 17:44:26,885 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-10 17:44:36,693 :INFO : test_Login :Login Successful
+2022-02-10 17:46:34,766 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-10 17:46:37,319 :INFO : test_Login :Login Successful
+2022-02-10 18:57:58,568 :INFO : test_Login :Username is Shashank.verma@india.nec.com
+2022-02-10 18:58:08,806 :INFO : test_Login :Login Successful
